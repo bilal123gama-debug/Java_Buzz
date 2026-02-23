@@ -1,2 +1,1 @@
-# Java_Buzz
-This is Task2
+Repository Link => https://github.com/bilal123gama-debug/Java_Buzz.git
